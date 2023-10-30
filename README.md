@@ -1,0 +1,10 @@
+👋 Hi, I’m Mr.Ajay_Gangwar😎
+👀 I’m interested in Software Development 😊
+🌱 I’m currently learning in MCA course 
+💞️ I’m looking to collaborate...&...You will Help me☺️.
+
+
+<!---
+MrAjayGangwar2001/MrAjayGangwar2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
