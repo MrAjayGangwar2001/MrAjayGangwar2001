@@ -1,7 +1,7 @@
 👋 Hi, I’m Mr.Ajay_Gangwar😎
 👀 I’m interested in Software Development 😊
 🌱 I’m currently learning in MCA course 
-💞️ I’m looking to collaborate...&...You will Help me☺️.
+💞️ I’m looking to collaborate with...&...You will Help me☺️.
 
 
 <!---
