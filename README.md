@@ -1,7 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Ajay_Gangwar😎
-👀 I’m interested in Software Development and Looking a Job😊
+👋 Hi, I’m Ajay_Gangwar😎.<br>
 🌱 I am a MCA Graduate.<br>
+👀 I’m interested in Software Development and Looking a Job😊.<br>
+
 💞️ Skilled in HTML, CSS, Javascript, Java, C++, Python, React js, Git and GitHub.
 
 
