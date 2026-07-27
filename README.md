@@ -134,9 +134,9 @@ Solution: Redis atomic locks + JPA @Version + Testcontainers proving it works
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-two-bay-88.vercel.app/api?username=MrAjayGangwar2001&show_icons=true&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&card_width=500)
+![GitHub Stats](https://github-readme-stats-self-rho-34.vercel.app/api?username=MrAjayGangwar2001&show_icons=true&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&card_width=500)
 
-![Top Languages](https://github-readme-stats-two-bay-88.vercel.app/api/top-langs/?username=MrAjayGangwar2001&layout=compact&theme=ambient_gradient&hide_border=false)
+![Top Languages](https://github-readme-stats-self-rho-34.vercel.app/api/top-langs/?username=MrAjayGangwar2001&layout=compact&theme=ambient_gradient&hide_border=false)
 
 ### 🐍 Contribution Snake
 
